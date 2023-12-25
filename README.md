@@ -10,3 +10,4 @@ This repository features my understanding and implementation of various design p
 # Creational pattern
 
 > Factory pattern
+> Builder pattern
