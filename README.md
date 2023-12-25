@@ -17,3 +17,7 @@ This repository features my understanding and implementation of various design p
 
 - Observer/pubsub pattern
 - Iterator pattern
+
+# Structural pattern
+
+- Adapter pattern
