@@ -11,3 +11,8 @@ This repository features my understanding and implementation of various design p
 
 > Factory pattern
 > Builder pattern
+> Singleton pattern
+
+# Behavioral pattern
+
+> Observer/pubsub pattern
