@@ -16,3 +16,4 @@ This repository features my understanding and implementation of various design p
 # Behavioral pattern
 
 > Observer/pubsub pattern
+> Iterator pattern
