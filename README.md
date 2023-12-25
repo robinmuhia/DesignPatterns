@@ -9,11 +9,11 @@ This repository features my understanding and implementation of various design p
 
 # Creational pattern
 
-> Factory pattern
-> Builder pattern
-> Singleton pattern
+- Factory pattern
+- Builder pattern
+- Singleton pattern
 
 # Behavioral pattern
 
-> Observer/pubsub pattern
-> Iterator pattern
+- Observer/pubsub pattern
+- Iterator pattern
